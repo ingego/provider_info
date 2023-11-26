@@ -25,21 +25,30 @@
         "data": {
           "columns": [
             {
-              "tag": "tag1",
-              "displayTitle": "Tag1"
+              "tag": "ByteBridge",
+              "displayTitle": "Развитие студии"
             },
             {
-              "tag": "tag2",
-              "displayTitle": "Tag2"
+              "tag": "InsApp",
+              "displayTitle": "Развитие Insight App"
             },
             {
-              "tag": "tag3",
-              "displayTitle": "Tag3"
+              "tag": "Glam",
+              "displayTitle": "Развитие glam"
+            },
+            {
+              "tag": "",
+              "displayTitle": ""
             }
           ],
           "showColumnTags": true,
           "completedCount": 10,
-          "filters": [],
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "tasks"
+            }
+          ],
           "filterPolarity": "Allow",
           "filterScope": "Both",
           "showFilteredTags": true,
