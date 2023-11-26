@@ -17,4 +17,4 @@ comment:"other_token"
 }
 ```
 
-sec_pass = **ridge_security
+sec_pass = \**ridge_security
