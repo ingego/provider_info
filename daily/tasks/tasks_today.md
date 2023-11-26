@@ -12,7 +12,6 @@ json настройка по токену
 
 ```json 
 { 
-token:"test", 
-sub
+openai
 }
 ```
