@@ -38,21 +38,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "47febd0570c74581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tasks/tasks_today.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,12 +270,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "47febd0570c74581",
+  "active": "6f23606a8feaf334",
   "lastOpenFiles": [
+    "sk-.md",
+    "tasks/tasks_today.md",
     "Untitled.md",
     "Untitled.canvas",
     "Развитие бизнеса.md",
-    "tasks/tasks_today.md",
     "tasks/updater.sh",
     "Untitled 1.canvas",
     "home/daily_notes/22.11.2023.md",
