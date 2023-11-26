@@ -1,0 +1,67 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "dateBoardConfig",
+        "data": {
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "tasks"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "SubTasksOnly",
+          "showFilteredTags": true,
+          "includeUndated": true,
+          "title": "workspace",
+          "collapsedColumns": []
+        }
+      },
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "tag1",
+              "displayTitle": "Tag1"
+            },
+            {
+              "tag": "tag2",
+              "displayTitle": "Tag2"
+            },
+            {
+              "tag": "tag3",
+              "displayTitle": "Tag3"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "tasks",
+          "collapsedColumns": []
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": true
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6ca1c495fa252520","type":"text","text":"Задачи","x":-460,"y":-260,"width":250,"height":60,"color":"2"},
+		{"id":"02776d6fe84503ab","type":"text","text":"в работе","x":-140,"y":-260,"width":250,"height":60,"color":"2"},
+		{"id":"9d73842f6cffc0f1","type":"text","text":"завершено","x":160,"y":-260,"width":250,"height":60,"color":"2"},
+		{"id":"bec03942d790a625","x":-460,"y":-140,"width":240,"height":400,"type":"file","file":"tasks/tasks_today.md"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "31bf6557a8501704",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34ceb428cde0170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a6942dcd1222290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/daily_notes/04.08.2023.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a37d03ccc851597f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задачи на 6 августа.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3258cea32dc7431c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3c9bf718a800e65d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a6345b37c4b2213a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8c751591bc675547",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "60b2bdc4bd31d60a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fa1d9ce0d338aa71",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ced31dff79038433",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Задачи на 6 августа.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "61e31d2594ab24a3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Задачи на 6 августа.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "05e2f8e778ffd2c7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Задачи на 6 августа.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c9bf718a800e65d",
+  "lastOpenFiles": [
+    "daily/Untitled 3.md",
+    "daily/trs.md",
+    "daily/Osket контент план.md",
+    "daily/Untitled 2.md",
+    "daily/daily_notes/28.08.2023.md",
+    "daily/daily_notes/12.08.2023.md",
+    "daily/daily_notes/22.08.2023.md",
+    "daily/daily_notes/09.08.2023.md",
+    "daily/daily_notes/18.08.2023.md",
+    "daily/servers.md",
+    "daily/ReadItLater Inbox/Шпаргалка по Vim.md",
+    "daily/daily_notes/04.08.2023.md",
+    "daily/daily_notes/05.08.2023.md",
+    "daily/temp/Рабочие заметки.md",
+    "daily/Untitled.md",
+    "daily/Untitled 1.md",
+    "Задачи на 6 августа.md",
+    "daily/iPhone 14 Pro - 5.png"
+  ]
+}
