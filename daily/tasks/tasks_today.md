@@ -13,6 +13,6 @@ json настройка по токену
 ```json 
 { 
 openai_token:"", 
-comment:"othe"
+comment:"other_token"
 }
 ```
