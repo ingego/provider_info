@@ -12,6 +12,7 @@ json настройка по токену
 
 ```json 
 { 
-openai_token:""
+openai_token:"", 
+
 }
 ```
