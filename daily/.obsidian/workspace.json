@@ -163,9 +163,47 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "22d1037a077825a0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/flutterdeveloper/Library/Mobile Documents/iCloud~md~obsidian/Documents/test/daily",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {},
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 77,
+                    "data": "flutterdeveloper@MacBook-Pro-flutter daily % \r\nflutterdeveloper@MacBook-Pro-flutter daily % \r\nflutterdeveloper@MacBook-Pro-flutter daily % ls \r\nReadItLater Inbox\r\nUntitled.canvas\r\nUntitled.md\r\nhome\r\ntasks\r\nworkspace\r\nРазвитие бизнеса.md\r\nflutterdeveloper@MacBook-Pro-flutter daily % cd task      \r\ncd: no such file or directory: task\r\nflutterdeveloper@MacBook-Pro-flutter daily % ls \r\nReadItLater Inbox\r\nUntitled.canvas\r\nUntitled.md\r\nhome\r\ntasks\r\nworkspace\r\nРазвитие бизнеса.md\r\nflutterdeveloper@MacBook-Pro-flutter daily % cd tasks \r\nflutterdeveloper@MacBook-Pro-flutter tasks % ls \r\ntasks_today.md\u001b[2Cupdater.sh\r\nflutterdeveloper@MacBook-Pro-flutter tasks % mv updater.sh ../../\r\nflutterdeveloper@MacBook-Pro-flutter tasks % ls \r\ntasks_today.md\r\nflutterdeveloper@MacBook-Pro-flutter tasks % cd ../../\r\nflutterdeveloper@MacBook-Pro-flutter test % ls \r\ndaily\r\nupdater.sh\r\nЗадачи на 6 августа.md\r\nflutterdeveloper@MacBook-Pro-flutter test % chmod -x updater.sh\r\nflutterdeveloper@MacBook-Pro-flutter test % updater.sh\r\nzsh: command not found: updater.sh\r\nflutterdeveloper@MacBook-Pro-flutter test % ./updater.sh\r\nzsh: permission denied: ./updater.sh\r\nflutterdeveloper@MacBook-Pro-flutter test % sudo ./updater.sh \r\nPassword:\r\nsudo: ./updater.sh: command not found\r\nflutterdeveloper@MacBook-Pro-flutter test % sudo chmod -x updater.sh\u001b[19D",
+                    "rows": 21
+                  }
+                }
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "1ca76c31de40d990",
@@ -227,7 +265,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f0e1c312214dd0d7",
+  "active": "22d1037a077825a0",
   "lastOpenFiles": [
     "tasks/updater.sh",
     "tasks/tasks_today.md",
