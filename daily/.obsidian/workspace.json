@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/tasks_today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/tasks_today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tasks/tasks_today.md"
-              }
+              "state": {}
             }
           },
           {
@@ -270,10 +266,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6f23606a8feaf334",
+  "active": "f0e1c312214dd0d7",
   "lastOpenFiles": [
-    "tasks/updater.sh",
     "tasks/tasks_today.md",
+    "tasks/updater.sh",
     "Untitled.canvas",
     "Untitled.md",
     "Развитие бизнеса.md",
