@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "tasks/tasks_today.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -288,7 +288,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "353f0a17472d21ac",
+  "active": "6f23606a8feaf334",
   "lastOpenFiles": [
     "tasks/tasks_today.md",
     "tasks/updater.sh",
