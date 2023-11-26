@@ -17,4 +17,4 @@ comment:"other_token"
 }
 ```
 
-sec_pass = bbridge_security
+sec_pass = *bridge_security
