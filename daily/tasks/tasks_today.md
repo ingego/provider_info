@@ -20,16 +20,3 @@
 - [ ] ⏫  Экосистема BYTEBRIDGE 
 - [ ] Сайт подарков 
 
-
-формат данных .bb
-
-json настройка по токену  
-
-```json 
-{ 
-openai_token:"", 
-comment:"other_token"
-}
-```
-
-sec_pass = \*\*ridge_security
