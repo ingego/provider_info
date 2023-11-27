@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/tasks_today.md",
+                "file": "startups/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/tasks_today.md",
+                "file": "startups/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/tasks_today.md",
+                "file": "startups/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/tasks_today.md"
+                "file": "startups/Untitled.md"
               }
             }
           },
@@ -270,11 +270,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "63ff0b1817359e51",
+  "active": "6f23606a8feaf334",
   "lastOpenFiles": [
-    "Untitled",
-    "sk-.md",
     "tasks/tasks_today.md",
+    "startups/Untitled.md",
+    "startups",
+    "sk-.md",
     "Untitled.md",
     "Untitled.canvas",
     "Развитие бизнеса.md",
