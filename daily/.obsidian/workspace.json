@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,14 +274,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7d64c21800246dc8",
+  "active": "6f23606a8feaf334",
   "lastOpenFiles": [
-    "tasks/tasks_today.md",
+    "Untitled.md",
     "tasks/tasks.md",
+    "tasks/tasks_today.md",
     "startups/EasyCloud.md",
     "startups",
     "sk-.md",
-    "Untitled.md",
     "Untitled.canvas",
     "Развитие бизнеса.md",
     "tasks/updater.sh",
