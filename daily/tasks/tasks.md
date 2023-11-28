@@ -21,4 +21,4 @@ sec_pass = \*\*ridge_security
 
 /ping - проверка состяния бота 
 
-/get
+/get-
