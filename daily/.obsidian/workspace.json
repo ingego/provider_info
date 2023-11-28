@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/tasks.md",
+                "file": "tasks/tasks_today.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/tasks.md",
+                "file": "tasks/tasks_today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/tasks.md",
+                "file": "tasks/tasks_today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/tasks.md"
+                "file": "tasks/tasks_today.md"
               }
             }
           },
@@ -196,11 +196,7 @@
                     "type": "integrated",
                     "useWin32Conhost": true
                   },
-                  "serial": {
-                    "columns": 31,
-                    "data": "flutterdeveloper@MacBook-Pro-flutter daily % \r\nflutterdeveloper@MacBook-Pro-flutter daily % \r\nflutterdeveloper@MacBook-Pro-flutter daily % ls \r\nReadItLater Inbox\r\nUntitled.canvas\r\nUntitled.md\r\nhome\r\ntasks\r\nworkspace\r\nРазвитие бизнеса.md\r\nflutterdeveloper@MacBook-Pro-flutter daily % cd task      \r\ncd: no such file or directory: task\r\nflutterdeveloper@MacBook-Pro-flutter daily % ls \r\nReadItLater Inbox\r\nUntitled.canvas\r\nUntitled.md\r\nhome\r\ntasks\r\nworkspace\r\nРазвитие бизнеса.md\r\nflutterdeveloper@MacBook-Pro-flutter daily % cd tasks \r\nflutterdeveloper@MacBook-Pro-flutter tasks % ls \r\ntasks_today.md\u001b[2Cupdater.sh\r\nflutterdeveloper@MacBook-Pro-flutter tasks % mv updater.sh ../../\r\nflutterdeveloper@MacBook-Pro-flutter tasks % ls \r\ntasks_today.md\r\nflutterdeveloper@MacBook-Pro-flutter tasks % cd ../../\r\nflutterdeveloper@MacBook-Pro-flutter test % ls \r\ndaily\r\nupdater.sh\r\nЗадачи на 6 августа.md\r\nflutterdeveloper@MacBook-Pro-flutter test % chmod -x updater.sh\r\nflutterdeveloper@MacBook-Pro-flutter test % updater.sh\r\nzsh: command not found: updater.sh\r\nflutterdeveloper@MacBook-Pro-flutter test % ./updater.sh\r\nzsh: permission denied: ./updater.sh\r\nflutterdeveloper@MacBook-Pro-flutter test % sudo ./updater.sh \r\nPassword:\r\nsudo: ./updater.sh: command not found\r\nflutterdeveloper@MacBook-Pro-flutter test % sudo chmod -x ./updater.sh\r\nflutterdeveloper@MacBook-Pro-flutter test % sudo ./updater.sh         \r\nsudo: ./updater.sh: command not found\r\nflutterdeveloper@MacBook-Pro-flutter test % ls \r\ndaily\r\nupdater.sh\r\nЗадачи на 6 августа.md\r\nflutterdeveloper@MacBook-Pro-flutter test % updater.sh\r\nzsh: command not found: updater.sh\r\nflutterdeveloper@MacBook-Pro-flutter test % ./updater.sh\r\nzsh: permission denied: ./updater.sh\r\nflutterdeveloper@MacBook-Pro-flutter test % \r\n\u001b[1A\u001b[13C",
-                    "rows": 21
-                  }
+                  "serial": null
                 }
               },
               "pinned": true
@@ -240,11 +236,7 @@
                     "type": "integrated",
                     "useWin32Conhost": true
                   },
-                  "serial": {
-                    "columns": 31,
-                    "data": "flutterdeveloper@MacBook-Pro-flutter daily % ls \r\nReadItLater Inbox---------------\u001b[1D\u001b[1X\u001b[A\u001b[17C\u001b[14X\u001b[17D\u001b[B\u001b[9Chome\r\nUntitled.canvas-----------------\u001b[1D\u001b[1X\u001b[A\u001b[15C\u001b[16X\u001b[15D\u001b[B\u001b[9Cworkspace\r\nUntitled.md---------------------\u001b[1D\u001b[1X\u001b[A\u001b[11C\u001b[20X\u001b[11D\u001b[B\u001b[9CРазвитие бизнеса.md\r\nflutterdeveloper@MacBook-Pro-flutter daily % mkdir tasks \r\nflutterdeveloper@MacBook-Pro-flutter daily % cd tasks \r\nflutterdeveloper@MacBook-Pro-flutter tasks % touch tasks_today.md\r\nflutterdeveloper@MacBook-Pro-flutter tasks % open .\r\nflutterdeveloper@MacBook-Pro-flutter tasks % code .\r\nzsh: command not found: code\r\nflutterdeveloper@MacBook-Pro-flutter tasks % code . \r\nzsh: command not found: code\r\nflutterdeveloper@MacBook-Pro-flutter tasks % pwd\r\n/Users/flutterdeveloper/Library/Mobile Documents/iCloud~md~obsidian/Documents/test/daily/tasks\r\nflutterdeveloper@MacBook-Pro-flutter tasks % git add . \r\nflutterdeveloper@MacBook-Pro-flutter tasks % git push \r\nEverything up-to-date\r\nflutterdeveloper@MacBook-Pro-flutter tasks % git commit -m \"dada\"\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   ../.obsidian/plugins/card-board/data.json\r\n\u001b[8Cmodified:   ../.obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nflutterdeveloper@MacBook-Pro-flutter tasks % git add .           \r\nflutterdeveloper@MacBook-Pro-flutter tasks % git commit -m \"dada\"\r\n[main 9c8c392] dada\r\n 1 file changed, 2 insertions(+)\r\nflutterdeveloper@MacBook-Pro-flutter tasks % git push            \r\nEnumerating objects: 9, done.\r\nCounting objects: 100% (9/9), done.\r\nDelta compression using up to 8 threads\r\nCompressing objects: 100% (4/4), done.\r\nWriting objects: 100% (5/5), 394 bytes | 394.00 KiB/s, done.\r\nTotal 5 (delta 3), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (3/3), completed with 3 local objects.\r\nTo https://github.com/ingego/provider_info.git\r\n   f52ecda..9c8c392  main -> main\r\nflutterdeveloper@MacBook-Pro-flutter tasks % git add .           \r\nflutterdeveloper@MacBook-Pro-flutter tasks % git commit -m \"dada\"\r\n[main 3eed88c] dada\r\n 1 file changed, 1 insertion(+)\r\nflutterdeveloper@MacBook-Pro-flutter tasks % git push            \r\nEnumerating objects: 9, done.\r\nCounting objects: 100% (9/9), done.\r\nDelta compression using up to 8 threads\r\nCompressing objects: 100% (4/4), done.\r\nWriting objects: 100% (5/5), 401 bytes | 401.00 KiB/s, done.\r\nTotal 5 (delta 3), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (3/3), completed with 3 local objects.\r\nTo https://github.com/ingego/provider_info.git\r\n   9c8c392..3eed88c  main -> main\r\nflutterdeveloper@MacBook-Pro-flutter tasks % git add .           \r\nflutterdeveloper@MacBook-Pro-flutter tasks % git commit -m \"dada\"\r\n[main 599ba14] dada\r\n 1 file changed, 2 insertions(+)\r\nflutterdeveloper@MacBook-Pro-flutter tasks % git push            \r\nEnumerating objects: 9, done.\r\nCounting objects: 100% (9/9), done.\r\nDelta compression using up to 8 threads\r\nCompressing objects: 100% (4/4), done.\r\nWriting objects: 100% (5/5), 406 bytes | 406.00 KiB/s, done.\r\nTotal 5 (delta 3), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (3/3), completed with 3 local objects.\r\nTo https://github.com/ingego/provider_info.git\r\n   3eed88c..599ba14  main -> main\r\nflutterdeveloper@MacBook-Pro-flutter tasks % pwd\r\n/Users/flutterdeveloper/Library/Mobile Documents/iCloud~md~obsidian/Documents/test/daily/tasks\r\nflutterdeveloper@MacBook-Pro-flutter tasks % \r\nflutterdeveloper@MacBook-Pro-flutter tasks % git push \r\nEnumerating objects: 24, done.\r\nCounting objects: 100% (24/24), done.\r\nDelta compression using up to 8 threads\r\nCompressing objects: 100% (13/13), done.\r\nWriting objects: 100% (15/15), 1.99 KiB | 1.99 MiB/s, done.\r\nTotal 15 (delta 10), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (10/10), completed with 7 local objects.\r\nTo https://github.com/ingego/provider_info.git\r\n   599ba14..f92935e  main -> main\r\nflutterdeveloper@MacBook-Pro-flutter tasks % git push \r\nEnumerating objects: 16, done.\r\nCounting objects: 100% (16/16), done.\r\nDelta compression using up to 8 threads\r\nCompressing objects: 100% (9/9), done.\r\nWriting objects: 100% (10/10), 954 bytes | 954.00 KiB/s, done.\r\nTotal 10 (delta 7), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (7/7), completed with 5 local objects.\r\nTo https://github.com/ingego/provider_info.git\r\n   f92935e..bac2693  main -> main\r\nflutterdeveloper@MacBook-Pro-flutter tasks % \r\nflutterdeveloper@MacBook-Pro-flutter tasks % \r\nflutterdeveloper@MacBook-Pro-flutter tasks % \r\nflutterdeveloper@MacBook-Pro-flutter tasks % \r\nflutterdeveloper@MacBook-Pro-flutter tasks % \r\nflutterdeveloper@MacBook-Pro-flutter tasks % \r\nflutterdeveloper@MacBook-Pro-flutter tasks % \r\nflutterdeveloper@MacBook-Pro-flutter tasks % nano updater.sh\r\nflutterdeveloper@MacBook-Pro-flutter tasks % chmod -x ./updater.sh \r\nflutterdeveloper@MacBook-Pro-flutter tasks % \r\nflutterdeveloper@MacBook-Pro-flutter tasks % pwd\r\n/Users/flutterdeveloper/Library/Mobile Documents/iCloud~md~obsidian/Documents/test/daily/tasks\r\nflutterdeveloper@MacBook-Pro-flutter tasks % ",
-                    "rows": 21
-                  }
+                  "serial": null
                 }
               }
             }
@@ -272,8 +264,8 @@
   },
   "active": "6f23606a8feaf334",
   "lastOpenFiles": [
-    "tasks/tasks_today.md",
     "tasks/tasks.md",
+    "tasks/tasks_today.md",
     "startups/EasyCloud.md",
     "startups",
     "sk-.md",
