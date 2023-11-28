@@ -18,4 +18,4 @@ sec_pass = \*\*ridge_security
 
 
 //bots 
-ка
+
