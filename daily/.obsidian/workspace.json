@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/tasks_today.md",
+                "file": "tasks/tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/tasks_today.md",
+                "file": "tasks/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/tasks_today.md",
+                "file": "tasks/tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/tasks_today.md"
+                "file": "tasks/tasks.md"
               }
             }
           },
@@ -276,9 +276,9 @@
   },
   "active": "6f23606a8feaf334",
   "lastOpenFiles": [
+    "tasks/tasks_today.md",
     "tasks/tasks.md",
     "Untitled.md",
-    "tasks/tasks_today.md",
     "startups/EasyCloud.md",
     "startups",
     "sk-.md",
