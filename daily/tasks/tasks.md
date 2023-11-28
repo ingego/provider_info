@@ -19,3 +19,4 @@ sec_pass = \*\*ridge_security
 
 //bots 
 
+/ping - 
