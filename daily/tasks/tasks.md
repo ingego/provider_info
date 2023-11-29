@@ -32,7 +32,7 @@ sec_pass = \*\*ridge_security
 flowchart TD 
 
 id(внешнее апи)
-id-->s
+id-->bot
 ```
 
 
