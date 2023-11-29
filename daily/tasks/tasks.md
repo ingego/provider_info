@@ -28,10 +28,8 @@ sec_pass = \*\*ridge_security
 Логика работы бота 
 
 
-```mermaid 
-
-FLOWCHART TD 
-	sd --> sdf
+```mermaid TD 
+sd -->
 ```
 
 
