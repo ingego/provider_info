@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"b744c75a5cf628fa","x":-360,"y":-340,"width":250,"height":60,"type":"text","text":"Внешний модуль"},
-		{"id":"2f59877f6f6b06bb","x":-40,"y":-340,"width":250,"height":60,"type":"text","text":"АПИ мониторинга"}
+		{"id":"2f59877f6f6b06bb","x":-40,"y":-340,"width":250,"height":60,"type":"text","text":"АПИ мониторинга"},
+		{"id":"183b89d5b8f71583","type":"text","text":"АПИ мониторинга","x":240,"y":-340,"width":250,"height":60}
 	],
 	"edges":[]
 }
