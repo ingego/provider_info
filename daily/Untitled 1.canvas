@@ -6,7 +6,7 @@
 		{"id":"1f2eebde64738fde","x":-610,"y":-500,"width":250,"height":60,"type":"text","text":"Freelance.ru"},
 		{"id":"02c0531b5ee1e699","type":"text","text":"Kwork","x":-610,"y":-160,"width":250,"height":60},
 		{"id":"c0a7325a63debaf5","type":"text","text":"Fl.ru","x":-940,"y":-400,"width":250,"height":60},
-		{"id":"f112aebeb31049b5","type":"text","text":"Fl.ru","x":-940,"y":-280,"width":250,"height":60}
+		{"id":"f112aebeb31049b5","type":"text","text":"яднекс","x":-940,"y":-280,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"134d9ea867f82b69","fromNode":"b744c75a5cf628fa","fromSide":"bottom","toNode":"2f59877f6f6b06bb","toSide":"bottom"},
