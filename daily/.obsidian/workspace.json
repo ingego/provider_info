@@ -65,7 +65,7 @@
               "type": "markdown",
               "state": {
                 "file": "tasks/tasks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -292,7 +292,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6f23606a8feaf334",
+  "active": "e95770bf659acc2a",
   "lastOpenFiles": [
     "tasks/tasks_today.md",
     "tasks/tasks.md",
