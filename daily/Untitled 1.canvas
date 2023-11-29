@@ -4,5 +4,7 @@
 		{"id":"2f59877f6f6b06bb","x":-40,"y":-340,"width":250,"height":60,"type":"text","text":"АПИ мониторинга"},
 		{"id":"183b89d5b8f71583","type":"text","text":"тг бот","x":240,"y":-340,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"134d9ea867f82b69","fromNode":"b744c75a5cf628fa","fromSide":"bottom","toNode":"2f59877f6f6b06bb","toSide":"bottom"}
+	]
 }
