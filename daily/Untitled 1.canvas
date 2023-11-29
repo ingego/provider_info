@@ -1,12 +1,14 @@
 {
 	"nodes":[
-		{"id":"1f2eebde64738fde","x":-610,"y":-500,"width":250,"height":60,"type":"text","text":""},
 		{"id":"b744c75a5cf628fa","x":-360,"y":-340,"width":250,"height":60,"type":"text","text":"Внешний модуль"},
 		{"id":"183b89d5b8f71583","type":"text","text":"тг бот","x":240,"y":-340,"width":250,"height":60},
-		{"id":"2f59877f6f6b06bb","x":-60,"y":-340,"width":250,"height":60,"type":"text","text":"АПИ мониторинга"}
+		{"id":"2f59877f6f6b06bb","x":-60,"y":-340,"width":250,"height":60,"type":"text","text":"АПИ мониторинга"},
+		{"id":"1f2eebde64738fde","x":-610,"y":-500,"width":250,"height":60,"type":"text","text":"Freelance.ru"},
+		{"id":"02c0531b5ee1e699","type":"text","text":"Freelance.ru","x":-446,"y":-292,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"134d9ea867f82b69","fromNode":"b744c75a5cf628fa","fromSide":"bottom","toNode":"2f59877f6f6b06bb","toSide":"bottom"},
-		{"id":"6e3e3b6d4e5a043e","fromNode":"2f59877f6f6b06bb","fromSide":"bottom","toNode":"183b89d5b8f71583","toSide":"bottom"}
+		{"id":"6e3e3b6d4e5a043e","fromNode":"2f59877f6f6b06bb","fromSide":"bottom","toNode":"183b89d5b8f71583","toSide":"bottom"},
+		{"id":"3b3d62592a54b162","fromNode":"1f2eebde64738fde","fromSide":"bottom","toNode":"b744c75a5cf628fa","toSide":"left"}
 	]
 }
