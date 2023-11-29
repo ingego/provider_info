@@ -16,26 +16,17 @@
             }
           },
           {
-            "id": "0aa714638632c7fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f23606a8feaf334",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -25,
+                  "y": 0,
+                  "zoom": -0.6783734402879208
+                }
               }
             }
           },
@@ -52,7 +43,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "1c86c52008109ee6",
@@ -136,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -294,10 +285,10 @@
   },
   "active": "6f23606a8feaf334",
   "lastOpenFiles": [
+    "Untitled.md",
     "Untitled.canvas",
     "tasks/tasks.md",
     "tasks/tasks_today.md",
-    "Untitled.md",
     "startups/EasyCloud.md",
     "startups",
     "sk-.md",
