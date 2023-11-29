@@ -28,8 +28,9 @@ sec_pass = \*\*ridge_security
 Логика работы бота 
 
 
+```mermaid 
 
-
+```
 
 
 
