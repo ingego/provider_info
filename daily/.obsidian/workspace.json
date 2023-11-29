@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/tasks.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/tasks.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/tasks.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/tasks.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -292,15 +292,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e95770bf659acc2a",
+  "active": "6f23606a8feaf334",
   "lastOpenFiles": [
-    "tasks/tasks_today.md",
+    "Untitled.canvas",
     "tasks/tasks.md",
+    "tasks/tasks_today.md",
     "Untitled.md",
     "startups/EasyCloud.md",
     "startups",
     "sk-.md",
-    "Untitled.canvas",
     "Развитие бизнеса.md",
     "tasks/updater.sh",
     "Untitled 1.canvas",
@@ -328,7 +328,6 @@
     "GPT.Copilot promt-generator.md",
     "iPhone 14 Pro - 5.png",
     "Osket контент план.md",
-    "MindJourney.md",
     "home/ReadItLater Inbox",
     "ReadItLater Inbox/assets",
     "home/temp",
