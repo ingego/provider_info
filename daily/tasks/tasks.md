@@ -31,8 +31,8 @@ sec_pass = \*\*ridge_security
 ```mermaid 
 flowchart TD 
 
-id(ко)
--->
+id(контролер)
+id-->s
 ```
 
 
