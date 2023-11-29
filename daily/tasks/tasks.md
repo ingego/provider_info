@@ -29,7 +29,8 @@ sec_pass = \*\*ridge_security
 
 
 ```mermaid 
-flowchard TD 
+
+FLOWCHART TD 
 sd -->
 ```
 
