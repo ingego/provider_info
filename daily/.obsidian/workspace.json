@@ -21,11 +21,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled 1.canvas",
                 "viewState": {
-                  "x": -25,
+                  "x": 0,
                   "y": 0,
-                  "zoom": -0.6783734402879208
+                  "zoom": 0
                 }
               }
             }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Untitled 1.canvas"
               }
             }
           },
@@ -285,8 +285,9 @@
   },
   "active": "6f23606a8feaf334",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled.md",
     "tasks/tasks.md",
     "tasks/tasks_today.md",
     "startups/EasyCloud.md",
@@ -294,7 +295,6 @@
     "sk-.md",
     "Развитие бизнеса.md",
     "tasks/updater.sh",
-    "Untitled 1.canvas",
     "home/daily_notes/22.11.2023.md",
     "tasks",
     "ReadItLater Inbox/Note 2023-11-26 19-57-13.md",
