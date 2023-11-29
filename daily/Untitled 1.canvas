@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"1f2eebde64738fde","x":-610,"y":-500,"width":250,"height":60,"type":"text","text":""},
 		{"id":"b744c75a5cf628fa","x":-360,"y":-340,"width":250,"height":60,"type":"text","text":"Внешний модуль"},
 		{"id":"183b89d5b8f71583","type":"text","text":"тг бот","x":240,"y":-340,"width":250,"height":60},
 		{"id":"2f59877f6f6b06bb","x":-60,"y":-340,"width":250,"height":60,"type":"text","text":"АПИ мониторинга"}
