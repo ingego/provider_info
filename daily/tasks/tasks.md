@@ -25,4 +25,11 @@ sec_pass = \*\*ridge_security
 
 
 
-kju
+Логика работы бота 
+
+
+
+
+
+
+
