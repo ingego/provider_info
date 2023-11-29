@@ -21,7 +21,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "единый мониторинг.canvas",
                 "viewState": {
                   "x": -483.3380298332086,
                   "y": -276.4661700087928,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "единый мониторинг.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "единый мониторинг.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "единый мониторинг.canvas"
               }
             }
           },
@@ -286,7 +286,7 @@
   "active": "6f23606a8feaf334",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "Untitled 1.canvas",
+    "единый мониторинг.canvas",
     "Untitled.md",
     "tasks/tasks.md",
     "tasks/tasks_today.md",
