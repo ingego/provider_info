@@ -41,8 +41,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea8cd8d3cea20415",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks/tasks_today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "единый мониторинг.canvas",
+                "file": "tasks/tasks_today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "единый мониторинг.canvas",
+                "file": "tasks/tasks_today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "единый мониторинг.canvas"
+                "file": "tasks/tasks_today.md"
               }
             }
           },
@@ -264,12 +277,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5f350f8c4dcae41",
+  "active": "ea8cd8d3cea20415",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "единый мониторинг.canvas",
-    "Untitled.md",
     "tasks/tasks.md",
+    "единый мониторинг.canvas",
+    "Untitled.canvas",
+    "Untitled.md",
     "tasks/tasks_today.md",
     "startups/EasyCloud.md",
     "startups",
