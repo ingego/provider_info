@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "единый мониторинг/Untitled.md",
+                "file": "единый мониторинг/Сервисы и биржи.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "единый мониторинг/Untitled.md",
+                "file": "единый мониторинг/Сервисы и биржи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "единый мониторинг/Untitled.md",
+                "file": "единый мониторинг/Сервисы и биржи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "единый мониторинг/Untitled.md"
+                "file": "единый мониторинг/Сервисы и биржи.md"
               }
             }
           },
@@ -289,10 +289,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "63ff0b1817359e51",
+  "active": "591a87ed62ab94a6",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "единый мониторинг/Untitled.md",
+    "единый мониторинг/Сервисы и биржи.md",
     "единый мониторинг",
     "Развитие бизнеса.md",
     "sk-.md",
