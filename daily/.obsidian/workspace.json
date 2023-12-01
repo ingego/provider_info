@@ -19,14 +19,11 @@
             "id": "6f23606a8feaf334",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "единый мониторинг.canvas",
-                "viewState": {
-                  "x": -522.2544246692556,
-                  "y": -274.66000612065676,
-                  "zoom": -1.1693886975447343
-                }
+                "file": "Развитие бизнеса.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -121,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "единый мониторинг.canvas",
+                "file": "Развитие бизнеса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "единый мониторинг.canvas",
+                "file": "Развитие бизнеса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "единый мониторинг.canvas"
+                "file": "Развитие бизнеса.md"
               }
             }
           },
@@ -279,14 +276,14 @@
   },
   "active": "6f23606a8feaf334",
   "lastOpenFiles": [
+    "sk-.md",
+    "единый мониторинг.canvas",
     "tasks/tasks_today.md",
     "tasks/tasks.md",
-    "единый мониторинг.canvas",
     "Untitled.canvas",
     "Untitled.md",
     "startups/EasyCloud.md",
     "startups",
-    "sk-.md",
     "Развитие бизнеса.md",
     "tasks/updater.sh",
     "home/daily_notes/22.11.2023.md",
