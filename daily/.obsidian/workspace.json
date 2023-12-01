@@ -65,9 +65,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57d3689d24825d38",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "единый мониторинг.canvas",
+                "viewState": {
+                  "x": -225,
+                  "y": -300,
+                  "zoom": -0.3953012812175818
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "единый мониторинг/Сервисы и биржи.md",
+                "file": "единый мониторинг.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "единый мониторинг/Сервисы и биржи.md",
+                "file": "единый мониторинг.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "единый мониторинг/Сервисы и биржи.md"
+                "file": "единый мониторинг.canvas"
               }
             }
           },
@@ -289,10 +304,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "591a87ed62ab94a6",
+  "active": "57d3689d24825d38",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "единый мониторинг/Сервисы и биржи.md",
+    "Untitled.canvas",
     "единый мониторинг",
     "Развитие бизнеса.md",
     "sk-.md",
