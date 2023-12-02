@@ -70,14 +70,11 @@
             "id": "57d3689d24825d38",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "единый мониторинг.canvas",
-                "viewState": {
-                  "x": -225,
-                  "y": -300,
-                  "zoom": -0.3953012812175818
-                }
+                "file": "tasks/tasks_today.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -148,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "единый мониторинг.canvas",
+                "file": "tasks/tasks_today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "единый мониторинг.canvas",
+                "file": "tasks/tasks_today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "единый мониторинг.canvas"
+                "file": "tasks/tasks_today.md"
               }
             }
           },
@@ -306,12 +303,12 @@
   },
   "active": "57d3689d24825d38",
   "lastOpenFiles": [
+    "единый мониторинг.canvas",
     "единый мониторинг/Сервисы и биржи.md",
     "Untitled.canvas",
     "единый мониторинг",
     "Развитие бизнеса.md",
     "sk-.md",
-    "единый мониторинг.canvas",
     "tasks/tasks_today.md",
     "tasks/tasks.md",
     "startups/EasyCloud.md",
