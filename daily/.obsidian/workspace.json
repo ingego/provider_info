@@ -54,7 +54,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -344,7 +345,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5f350f8c4dcae41",
+  "active": "7d64c21800246dc8",
   "lastOpenFiles": [
     "tasks/tasks_today.md",
     "tasks/tasks.md",
