@@ -66,5 +66,5 @@ id-->bot
 - [ ] Сбор заявки с freelance.ru #taskMonitor
 - [ ] Сбор заявки с FL.ru #taskMonitor
 - [ ] Сбор заявки с Яндекс услуги #taskMonitor
-- [ ] Сбор заявки с Бот для заявок #taskMonitor
-- [ ] 
+- [ ]  Бот для заявок #taskMonitor
+- [ ] Сбор заявки с Яндекс услуги #taskMonitor
