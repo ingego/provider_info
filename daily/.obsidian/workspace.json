@@ -19,11 +19,14 @@
             "id": "7d64c21800246dc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "tasks/tasks.md",
-                "mode": "source",
-                "source": false
+                "file": "единый мониторинг.canvas",
+                "viewState": {
+                  "x": -225,
+                  "y": -300,
+                  "zoom": -0.3953012812175818
+                }
               }
             }
           },
@@ -88,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/tasks.md",
+                "file": "tasks/tasks_today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/tasks.md",
+                "file": "tasks/tasks_today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/tasks.md"
+                "file": "tasks/tasks_today.md"
               }
             }
           },
@@ -378,15 +381,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7d64c21800246dc8",
+  "active": "ea8cd8d3cea20415",
   "lastOpenFiles": [
-    "tasks/tasks_today.md",
+    "единый мониторинг.canvas",
     "tasks/tasks.md",
+    "tasks/tasks_today.md",
     "Untitled.canvas",
     "единый мониторинг/Сервисы и биржи.md",
     "Untitled.md",
     "Dragon.md",
-    "единый мониторинг.canvas",
     "единый мониторинг",
     "Развитие бизнеса.md",
     "sk-.md",
