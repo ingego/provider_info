@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ЭкосистемаByteBridge",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -378,7 +379,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6838778efe1c53ac",
+  "active": "ea8cd8d3cea20415",
   "lastOpenFiles": [
     "tasks/tasks.md",
     "tasks/tasks_today.md",
