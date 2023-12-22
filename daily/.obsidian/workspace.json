@@ -77,9 +77,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2460f51c96204291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks/tasks_today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0568a407d2657f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks/tasks_today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/tasks_today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/tasks_today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +205,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tasks/tasks_today.md"
-              }
+              "state": {}
             }
           },
           {
@@ -240,9 +259,77 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6dfa14082877250e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/flutterdeveloper/Library/Mobile Documents/iCloud~md~obsidian/Documents/test/daily",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {},
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1e740405fc76a691",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/flutterdeveloper/Library/Mobile Documents/iCloud~md~obsidian/Documents/test/daily",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/sh",
+                    "name": "",
+                    "platforms": {
+                      "linux": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {},
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "1ca76c31de40d990",
@@ -301,16 +388,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "57d3689d24825d38",
+  "active": "1e740405fc76a691",
   "lastOpenFiles": [
+    "tasks/tasks_today.md",
+    "tasks/tasks.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Dragon.md",
     "единый мониторинг.canvas",
     "единый мониторинг/Сервисы и биржи.md",
-    "Untitled.canvas",
     "единый мониторинг",
     "Развитие бизнеса.md",
     "sk-.md",
-    "tasks/tasks_today.md",
-    "tasks/tasks.md",
     "startups/EasyCloud.md",
     "startups",
     "tasks/updater.sh",
@@ -335,9 +424,7 @@
     "Untitled 6.md",
     "bytebridge контент план.md",
     "Cleaning Service.md",
-    "GPT.Copilot promt-generator.md",
     "iPhone 14 Pro - 5.png",
-    "Osket контент план.md",
     "home/ReadItLater Inbox",
     "ReadItLater Inbox/assets",
     "home/temp"
