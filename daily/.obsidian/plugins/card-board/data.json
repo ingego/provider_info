@@ -25,7 +25,7 @@
         "data": {
           "columns": [
             {
-              "tag": "TaskMonitor",
+              "tag": "taskMonitor",
               "displayTitle": "мониторинг задач"
             },
             {
