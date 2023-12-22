@@ -9,6 +9,10 @@
           "filters": [
             {
               "tag": "pathFilter",
+              "data": "/"
+            },
+            {
+              "tag": "pathFilter",
               "data": "tasks"
             }
           ],
