@@ -8,12 +8,8 @@
           "completedCount": 10,
           "filters": [
             {
-              "tag": "pathFilter",
-              "data": "/"
-            },
-            {
-              "tag": "pathFilter",
-              "data": "tasks"
+              "tag": "fileFilter",
+              "data": "tasks/tasks_today.md"
             }
           ],
           "filterPolarity": "Allow",
