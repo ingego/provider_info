@@ -25,6 +25,10 @@
         "data": {
           "columns": [
             {
+              "tag": "TaskMonitor",
+              "displayTitle": "мониторинг задач"
+            },
+            {
               "tag": "ByteBridge",
               "displayTitle": "Развитие студии"
             },
