@@ -16,3 +16,4 @@
 ### Мониторинг задач 
 
 - [ ] Сбор заявки с freelance.ru #taskMonitor
+- [ ] Сбор заявки с freelance.ru #taskMonitor
