@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -378,11 +377,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0fd5fc1e23909b75",
+  "active": "a5f350f8c4dcae41",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "единый мониторинг/Сервисы и биржи.md",
     "tasks/tasks_today.md",
+    "единый мониторинг/Сервисы и биржи.md",
     "tasks/tasks.md",
     "Untitled.md",
     "Dragon.md",
