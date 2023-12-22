@@ -16,33 +16,6 @@
             }
           },
           {
-            "id": "6f23606a8feaf334",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -25,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "591a87ed62ab94a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "единый мониторинг/Сервисы и биржи.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7d64c21800246dc8",
             "type": "leaf",
             "state": {
@@ -388,15 +361,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1e740405fc76a691",
+  "active": "a5f350f8c4dcae41",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "единый мониторинг/Сервисы и биржи.md",
     "tasks/tasks_today.md",
     "tasks/tasks.md",
     "Untitled.md",
-    "Untitled.canvas",
     "Dragon.md",
     "единый мониторинг.canvas",
-    "единый мониторинг/Сервисы и биржи.md",
     "единый мониторинг",
     "Развитие бизнеса.md",
     "sk-.md",
