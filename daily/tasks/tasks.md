@@ -65,3 +65,4 @@ id-->bot
 
 - [ ] Сбор заявки с freelance.ru #taskMonitor
 - [ ] Сбор заявки с FL.ru #taskMonitor
+- [ ] Сбор заявки с FL.ru #taskMonitor
