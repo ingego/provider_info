@@ -69,3 +69,4 @@ id-->bot
 - [ ]  Бот для заявок #taskMonitor
 - [ ] Сбор заявки с Kwork #taskMonitor
 - [ ] Бот для отправки в тг бот #taskMonitor 
+- [ ] Единая база данных заявок 
