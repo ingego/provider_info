@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/tasks_today.md",
+                "file": "tasks/tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/tasks_today.md",
+                "file": "tasks/tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/tasks_today.md"
+                "file": "tasks/tasks.md"
               }
             }
           },
@@ -379,10 +379,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ea8cd8d3cea20415",
+  "active": "7d64c21800246dc8",
   "lastOpenFiles": [
-    "tasks/tasks.md",
     "tasks/tasks_today.md",
+    "tasks/tasks.md",
     "Untitled.canvas",
     "единый мониторинг/Сервисы и биржи.md",
     "Untitled.md",
