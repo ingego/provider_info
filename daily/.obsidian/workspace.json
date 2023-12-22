@@ -74,8 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fd5fc1e23909b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks/tasks_today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -141,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tasks/tasks_today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tasks/tasks_today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tasks/tasks_today.md"
+              }
             }
           },
           {
@@ -361,7 +378,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5f350f8c4dcae41",
+  "active": "0fd5fc1e23909b75",
   "lastOpenFiles": [
     "Untitled.canvas",
     "единый мониторинг/Сервисы и биржи.md",
