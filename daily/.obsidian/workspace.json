@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ЭкосистемаByteBridge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -347,9 +348,9 @@
   },
   "active": "53992aea2d45d662",
   "lastOpenFiles": [
-    "единый мониторинг.canvas",
     "tasks/tasks_today.md",
     "tasks/tasks.md",
+    "единый мониторинг.canvas",
     "Untitled.canvas",
     "единый мониторинг/Сервисы и биржи.md",
     "Untitled.md",
