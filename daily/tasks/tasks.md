@@ -68,3 +68,4 @@ id-->bot
 - [ ] Сбор заявки с Яндекс услуги #taskMonitor
 - [ ]  Бот для заявок #taskMonitor
 - [ ] Сбор заявки с Kwork #taskMonitor
+- [ ] Сбор заявки с Kwork #taskMonitor
