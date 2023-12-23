@@ -19,5 +19,8 @@ Form:
 		-
 			type: OneForListForm
 			title: String 
+		-
+			type: TimeForm
+			title: String 
 			
 ```
