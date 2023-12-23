@@ -6,7 +6,7 @@ Form:
 	listTypes: 
 		-
 			type: TextForm
-			title:  
+			title: String 
 		-
 			Type: 
 			Sybtype: 
