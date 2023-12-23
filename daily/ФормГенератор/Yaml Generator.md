@@ -20,7 +20,7 @@ Form:
 			type: OneForListForm
 			title: String 
 		-
-			type: TimeForm
+			type: TextListForm
 			title: String 
 			
 ```
