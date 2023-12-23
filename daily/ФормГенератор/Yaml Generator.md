@@ -12,7 +12,7 @@ Form:
 			Sybtype: String 
 		-
 			Type: TimeForm
-			Syb 
+			Title: String 
 			
 			
 
