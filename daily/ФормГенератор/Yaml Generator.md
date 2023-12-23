@@ -17,7 +17,7 @@ Form:
 			type: LoadedFileForm
 			title: String 
 		-
-			type: TimeForm
+			type: OneForListForm
 			title: String 
 			
 ```
