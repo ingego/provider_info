@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -345,8 +344,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5f350f8c4dcae41",
+  "active": "63ff0b1817359e51",
   "lastOpenFiles": [
+    "Untitled",
     "единый мониторинг.canvas",
     "tasks/tasks.md",
     "tasks/tasks_today.md",
