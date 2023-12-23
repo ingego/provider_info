@@ -5,8 +5,8 @@ Form:
 	description: String
 	listTypes: 
 		-
-		type: 
-		sybtype: 
+			type: 
+			sybtype: 
 		 
 			
 
