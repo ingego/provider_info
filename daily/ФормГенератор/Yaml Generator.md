@@ -11,7 +11,7 @@ Form:
 			Type: DateForm
 			Sybtype: String 
 		-
-			  Type: 
+			  Type: TimeForm 
 			
 			
 
