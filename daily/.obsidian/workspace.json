@@ -53,8 +53,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b32a227d96670536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ФормГенератор/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/tasks_today.md",
+                "file": "ФормГенератор/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/tasks_today.md",
+                "file": "ФормГенератор/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/tasks_today.md"
+                "file": "ФормГенератор/Untitled.md"
               }
             }
           },
@@ -344,12 +357,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "63ff0b1817359e51",
+  "active": "b32a227d96670536",
   "lastOpenFiles": [
-    "Untitled",
+    "tasks/tasks_today.md",
+    "ФормГенератор/Untitled.md",
+    "ФормГенератор",
     "единый мониторинг.canvas",
     "tasks/tasks.md",
-    "tasks/tasks_today.md",
     "Untitled.canvas",
     "единый мониторинг/Сервисы и биржи.md",
     "Untitled.md",
@@ -383,7 +397,6 @@
     "Cleaning Service.md",
     "iPhone 14 Pro - 5.png",
     "home/ReadItLater Inbox",
-    "ReadItLater Inbox/assets",
-    "home/temp"
+    "ReadItLater Inbox/assets"
   ]
 }
