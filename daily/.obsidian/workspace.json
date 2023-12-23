@@ -61,7 +61,7 @@
               "type": "markdown",
               "state": {
                 "file": "ФормГенератор/Yaml Generator.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -375,7 +375,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0eb74df55efb1383",
+  "active": "b32a227d96670536",
   "lastOpenFiles": [
     "tasks/tasks_today.md",
     "ФормГенератор/Yaml Generator.md",
