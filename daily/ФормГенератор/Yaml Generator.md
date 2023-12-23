@@ -8,11 +8,11 @@ Form:
 			type: TextForm
 			title: String 
 		-
-			Type: DateForm
-			Title: String 
+			type: DateForm
+			title: String 
 		-
-			Type: TimeForm
-			Title: String 
+			type: TimeForm
+			title: String 
 			
 			
 
