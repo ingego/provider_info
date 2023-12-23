@@ -8,7 +8,9 @@ Form:
 			type: 
 			sybtype: 
 		-
-		
+			Type: 
+			Sybtype: 
+			
 			
 
 
