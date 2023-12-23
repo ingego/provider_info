@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ФормГенератор/Untitled.md",
+                "file": "ФормГенератор/Yaml Generator.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ФормГенератор/Untitled.md",
+                "file": "ФормГенератор/Yaml Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ФормГенератор/Untitled.md",
+                "file": "ФормГенератор/Yaml Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ФормГенератор/Untitled.md"
+                "file": "ФормГенератор/Yaml Generator.md"
               }
             }
           },
@@ -360,7 +360,7 @@
   "active": "b32a227d96670536",
   "lastOpenFiles": [
     "tasks/tasks_today.md",
-    "ФормГенератор/Untitled.md",
+    "ФормГенератор/Yaml Generator.md",
     "ФормГенератор",
     "единый мониторинг.canvas",
     "tasks/tasks.md",
