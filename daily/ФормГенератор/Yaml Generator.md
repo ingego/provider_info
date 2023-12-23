@@ -8,7 +8,7 @@ Form:
 			type: TextForm
 			title: String 
 		-
-			Type: 
+			Type: Date
 			Sybtype: 
 			
 			
