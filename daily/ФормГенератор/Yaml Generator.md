@@ -9,7 +9,7 @@ Form:
 			title: String 
 		-
 			Type: DateForm
-			Sybtype: String 
+			Title: String 
 		-
 			Type: TimeForm
 			Title: String 
