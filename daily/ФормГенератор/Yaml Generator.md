@@ -5,8 +5,8 @@ Form:
 	description: String
 	listTypes: 
 		-
-			type: TextForm
-			title: String 
+			Type: TextForm
+			Title: String 
 		-
 			Type: DateForm
 			Title: String 
