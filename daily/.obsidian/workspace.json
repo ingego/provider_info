@@ -68,6 +68,24 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "877b6a9d41df262a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eb74df55efb1383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ФормГенератор/Yaml Generator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -357,7 +375,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b32a227d96670536",
+  "active": "0eb74df55efb1383",
   "lastOpenFiles": [
     "tasks/tasks_today.md",
     "ФормГенератор/Yaml Generator.md",
