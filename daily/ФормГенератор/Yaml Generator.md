@@ -5,7 +5,7 @@ Form:
 	description: String
 	listTypes: 
 		-
-			type: 
+			type: TextForm
 			sybtype: 
 		-
 			Type: 
