@@ -1,7 +1,8 @@
 ```yaml 
 
 Form: 
-	title: <String>
+	title: String
+	
 
 
 ```
